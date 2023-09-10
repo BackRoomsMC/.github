@@ -7,8 +7,8 @@
 Hi! 我们是 R14 The BackRooms MC服务器技术组！我们的部分插件源代码会在这里开源，代码统一使用 Apache 2.0 许可证开源！
 
 ## 项目
-\* 错误！数据被加密，无权限！无法解密！<br/><br/>
-[DATA ERROR] [DATA ERROR] [DATA ERROR] [DATA ERROR] [DATA ERROR]
+\* **错误！数据被加密，无权限！无法解密！**<br/><br/>
+**[DATA ERROR] [DATA ERROR] [DATA ERROR] [DATA ERROR] [DATA ERROR]**
 
 ## 技术组成员(Github用户名字母)
 格式：@GitHub用户名 (称呼) (QQ号) (职位)
