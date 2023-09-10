@@ -1,6 +1,6 @@
 # R14 The BackRooms MC服务器技术组
 
-<div align="center"><img alt="head" src="https://github.com/BackRoomsMC/.github/assets/64449839/8cf30d24-ac6e-45dc-bb48-e2d4f7dafa66" width="200"></img></div>
+<div align="center"><img alt="head" src="https://avatars.githubusercontent.com/u/140497097?s=400&u=9d238eb491b96bff570831fbbd1cad4ef47cb863&v=4" width="200"></img></div>
 
 
 ## 简介
